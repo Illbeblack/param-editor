@@ -10,7 +10,7 @@ export interface ParamValue {
 }
 
 export interface Color {
-  color: string;
+  colorName: string;
 }
 
 export interface Model {
